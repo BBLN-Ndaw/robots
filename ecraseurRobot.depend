@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\yayan\documents\baye\bbln\ecraseurrobot\main.cpp
+	<iostream>
+
+1575288550 source:c:\users\yayan\documents\baye\bbln\ecraseurrobot\position.cpp
+	"position.h"
+
+1575288631 c:\users\yayan\documents\baye\bbln\ecraseurrobot\position.h
+	<iostream>
+
+1575288631 source:c:\users\yayan\documents\baye\bbln\ecraseurrobot\personnage.cpp
+	"personnage.h"
+	"position.h"
+
+1575288631 c:\users\yayan\documents\baye\bbln\ecraseurrobot\personnage.h
+	<iostream>
+	"position.h"
+
+1575288632 source:c:\users\yayan\documents\baye\bbln\ecraseurrobot\joueur.cpp
+	"joueur.h"
+
+1575290212 c:\users\yayan\documents\baye\bbln\ecraseurrobot\joueur.h
+	<iostream>
+	"personnage.h"
+
+1575290064 c:\users\yayan\documents\baye\bbln\ecraseurrobot\terrain.h
+	"joueur.h"
+	"robot.h"
+	"debris.h"
+	"time.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<iostream>
+
+1575288752 source:c:\users\yayan\documents\baye\bbln\ecraseurrobot\robot.cpp
+	"robot.h"
+
+1575288753 c:\users\yayan\documents\baye\bbln\ecraseurrobot\robot.h
+	<iostream>
+	"personnage.h"
+	"joueur.h"
+
+1575288632 source:c:\users\yayan\documents\baye\bbln\ecraseurrobot\vieuxrobot.cpp
+	"vieuxRobot.h"
+
+1575288631 c:\users\yayan\documents\baye\bbln\ecraseurrobot\vieuxrobot.h
+	<iostream>
+	"robot.h"
+	"joueur.h"
+
+1575289369 source:c:\users\yayan\documents\baye\bbln\ecraseurrobot\debris.cpp
+	"debris.h"
+
+1575289271 c:\users\yayan\documents\baye\bbln\ecraseurrobot\debris.h
+	<iostream>
+	"position.h"
+	"personnage.h"
+
+1574869886 source:c:\users\yayan\documents\baye\bbln\ecraseurrobot\jeu.cpp
+
+1575288752 source:c:\users\yayan\documents\baye\bbln\ecraseurrobot\terrain.cpp
+	"terrain.h"
+
+1575287408 source:c:\users\yayan\documents\baye\bbln\ecraseurrobot\joueurexpert.ccp.c
+
